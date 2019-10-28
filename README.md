@@ -7,4 +7,5 @@ Założenia:
 - Ułatwiać wybór pokoju dla osób nie zameldowanych 
 - Wskazywać puste pokoje 
 - Pokazywać wydział mieszkańców pokoju w celu doierania osób z tych samych albo pokrewnych kierunków
+
 Jako przykład dla działania aplikacji wybrano DS T-6 "Alcatraz"
