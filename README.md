@@ -1,4 +1,5 @@
 Temat projektu: Aplikacja wspomagająca proces meldowania studentów w DS
+
 Założenia:
 - Aplikacja ma rozróżniać podział miejsc na męskie i żeńskie
 - Pilnować równego podziału na miejsca męskie i żeńskie na piętrze (około 50/50)
@@ -6,3 +7,4 @@ Założenia:
 - Ułatwiać wybór pokoju dla osób nie zameldowanych 
 - Wskazywać puste pokoje 
 - Pokazywać wydział mieszkańców pokoju w celu doierania osób z tych samych albo pokrewnych kierunków
+Jako przykład dla działania aplikacji wybrano DS T-6 "Alcatraz"
